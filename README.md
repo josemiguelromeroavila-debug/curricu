@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -131,7 +130,7 @@ button:hover{
 
     <!-- ENCABEZADO -->
     <div class="header">
-        <img src="fotomiguel.jpg"width= "250" height="250" >
+        <img src="fotomiguel.jpg" width="250" height="250">
         <h1>José Miguel Romero Ávila</h1>
         <h3>CEO / Director · Ciber Human</h3>
         <button onclick="window.print()">Imprimir CV</button>
